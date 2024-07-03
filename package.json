@@ -1,6 +1,6 @@
 {
   "name": "@c-ehrlich/eslint-plugin-use-server",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "An ESLint plugin to disallow top-level 'use server' directives",
   "main": "src/index.js",
   "scripts": {
@@ -17,6 +17,14 @@
     "email": "ehrlich.christopher@gmail.com",
     "url": "https://c-ehrlich.dev"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c-ehrlich/eslint-plugin-use-server.git"
+  },
+  "bugs": {
+    "url": "https://github.com/c-ehrlich/eslint-plugin-use-server/issues"
+  },
+  "homepage": "https://github.com/c-ehrlich/eslint-plugin-use-server#readme",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^9.6.0"
