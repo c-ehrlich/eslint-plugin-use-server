@@ -1,6 +1,6 @@
 # @c-ehrlich/eslint-plugin-use-server
 
-Disallows top level `"use server'`
+Disallows top level `"use server"`
 
 ## Instructions
 
