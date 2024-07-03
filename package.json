@@ -1,6 +1,6 @@
 {
   "name": "@c-ehrlich/eslint-plugin-use-server",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "An ESLint plugin to disallow top-level 'use server' directives",
   "main": "src/index.js",
   "scripts": {

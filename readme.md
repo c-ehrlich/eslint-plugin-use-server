@@ -1,4 +1,4 @@
-# @cje/eslint-plugin-use-server
+# @c-ehrlich/eslint-plugin-use-server
 
 Disallows top level `"use server'`
 
