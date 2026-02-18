@@ -2,6 +2,8 @@
 
 Disallows top level `"use server"`
 
+This is useful because in some versions of Next.js, every exported function in a "use server" file is automatically a public API. This rule could prevent you from mistakenly expose a function to the client.
+
 ## Instructions
 
 Add the following to your `eslintrc`:
